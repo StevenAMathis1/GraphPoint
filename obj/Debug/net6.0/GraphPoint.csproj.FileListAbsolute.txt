@@ -1,0 +1,17 @@
+C:\Users\smathis\source\repos\GraphPoint\bin\Debug\net6.0\GraphPoint.exe
+C:\Users\smathis\source\repos\GraphPoint\bin\Debug\net6.0\GraphPoint.deps.json
+C:\Users\smathis\source\repos\GraphPoint\bin\Debug\net6.0\GraphPoint.runtimeconfig.json
+C:\Users\smathis\source\repos\GraphPoint\bin\Debug\net6.0\GraphPoint.dll
+C:\Users\smathis\source\repos\GraphPoint\bin\Debug\net6.0\GraphPoint.pdb
+C:\Users\smathis\source\repos\GraphPoint\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.csproj.AssemblyReference.cache
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.AssemblyInfoInputs.cache
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.AssemblyInfo.cs
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.csproj.CoreCompileInputs.cache
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.csproj.CopyComplete
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.dll
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\refint\GraphPoint.dll
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.pdb
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\GraphPoint.genruntimeconfig.cache
+C:\Users\smathis\source\repos\GraphPoint\obj\Debug\net6.0\ref\GraphPoint.dll
