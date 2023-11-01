@@ -4,6 +4,6 @@
  Puts output into a csv file, separated by '|', the pipe character
 
 TODO: 
-- [ ] make access token a command line variable
+- [x] make access token a command line variable
 - [ ] Place presets into a presets folder
 - [ ] read in presets and populate queries variable with KQL from those presets
